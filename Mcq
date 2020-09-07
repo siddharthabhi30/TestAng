@@ -103,7 +103,7 @@ ref https://angular.io/guide/ngmodules
 Angular components form the data structure of your application.
 ref https://angular.io/guide/displaying-data
 
-if ngif=false then lnt will never get dispalyed	
+if <div ngif=false> lnt</div> will never get dispalyed	
 
 angular json activates at the start
 ref https://stackoverflow.com/questions/51691628/which-file-runs-first-in-an-angular-4-app-when-i-run-the-app
