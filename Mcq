@@ -98,7 +98,7 @@ text -shadow css-
 
 
 
-ngModule to configure your module (verify)
+ngModule is used  to configure your module (verify)
 ref https://angular.io/guide/ngmodules
 
 
