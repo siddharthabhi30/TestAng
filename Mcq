@@ -1,0 +1,121 @@
+
+yes jquery uses css selector
+
+service in app module ts and provider section
+
+onsumit is fired when form is submitted
+  
+
+local storage -Shared between all tabs and windows from the same origin.
+The data does not expire. It remains after the browser restart and even OS reboot.
+
+
+we put script at the end of body for all dom to load before javascript
+
+
+return type http services is observable
+
+
+sequence html-head-title-body
+
+====================
+ng new --skip-install true NewProjectName
+when you build future projects you can skip installing node_modules:
+Skip installing dependency packages
+
+We can tell the CLI not to create test by using the --skip-tests option:
+When true, does not create "spec.ts" test files for the app.
+
+
+
+
+subscribe is used to receive notificatoin from observable
+
+
+
+angjs is bvased on mvc
+ang is based on component oriented
+
+
+pipes are - currency date lowercase
+
+sqrt are not predefined pipes but can be converted using @pipes
+
+The [attribute] selector is used to select elements with a specified attribute.
+
+The [attribute="value"] selector is used to select elements with a specified attribute and value.
+
+The [attribute~="value"] selector is used to select elements with an attribute value containing a specified word.
+
+The [attribute|="value"] selector is used to select elements with the specified attribute starting with the specified value.
+
+The [attribute^="value"] selector is used to select elements whose attribute value begins with a specified value.
+
+The [attribute$="value"] selector is used to select elements whose attribute value ends with a specified value.
+
+The [attribute*="value"] selector is used to select elements whose attribute value contains a specified value.
+
+
+
+the RouterLinkActive is a directive for adding or removing classes from an HTML element that is bound to a RouterLink. Using this directive, we can toggle CSS classes for active Router Links based on the current RouterState.
+
+
+angularjs is based on model view controller -- verify
+
+
+correct way to add routes to router module\
+
+const routes: Routes = [
+  { path: 'first-component', component: FirstComponent },
+  { path: 'second-component', component: SecondComponent },
+];
+
+
+
+# is used a way to create html reference , actually it is called template reference eg
+template reference binding 
+<input  #my type="text">
+<button (click)="vat=my.value or here a function can also be called">click</button>
+
+
+GET /?say=Hi&to=Mom HTTP/2.0
+inget data is appended to the url
+
+When the form is submitted using the POST method, you get no data appended to the URL, and the HTTP request looks like so, with the data included in the request body instead:
+
+ref=https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
+
+ref for angular = https://medium.com/@balramchavan/angular-2-4-5-and-6-interview-questions-set-1-a632b9dec579
+
+
+text -shadow css- 
+1. value = The X-coordinate-shadow
+2. value = The Y-coordinate-shadow
+3. value = The blur radius
+4. value = The color of the shadow
+
+
+
+ngModule to configure your module (verify)
+ref https://angular.io/guide/ngmodules
+
+
+Angular components form the data structure of your application.
+ref https://angular.io/guide/displaying-data
+
+if ngif false then lnt will never get dispalyed	
+
+angular json activates at the start
+ref https://stackoverflow.com/questions/51691628/which-file-runs-first-in-an-angular-4-app-when-i-run-the-app
+
+
+
+Doubts regarding-= injected decorator
+
+
+importing module -- we have to import module in app module ts and then add module to imports
+
+
+for service we have to in provider
+
+-Custom sqrt api should be in provider(verify)
