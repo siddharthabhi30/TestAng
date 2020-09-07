@@ -37,7 +37,7 @@ angjs is bvased on mvc
 ang is based on component oriented
 
 
-pipes are - currency date lowercase
+predefined pipes are - currency date lowercase
 
 sqrt are not predefined pipes but can be converted using @pipes
 
