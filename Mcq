@@ -116,6 +116,6 @@ Doubts regarding-= injected decorator
 importing module -- we have to import module in app module ts and then add module to imports
 
 
-for service we have to in provider
+for service we have to include in provider
 
 -Custom sqrt api should be in provider(verify)
