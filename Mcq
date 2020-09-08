@@ -82,8 +82,8 @@ template reference binding
 GET /?say=Hi&to=Mom HTTP/2.0
 inget data is appended to the url
 
-When the form is submitted using the POST method, you get no data appended to the URL, and the HTTP request looks like so, 
-with the data included in the request body instead:
+When the form is submitted using the POST method, you get no data appended to the URL, and the HTTP request looks like , 
+ the data included in the request body:
 
 ref=https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
 
